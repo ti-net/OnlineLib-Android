@@ -75,7 +75,7 @@ ext {
     // kit version name
     kitVersionName = '1.8.1'
     // lib version name
-    libVersionName = '1.8.6'
+    libVersionName = '1.9.4'
 
     groupId = 'com.github.ti-net-project'
     artifactId = 'OnlineLib-Android'
